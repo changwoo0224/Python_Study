@@ -39,4 +39,4 @@ print(trunk.items())
 
 #폐점
 trunk.clear()
-print(trunk)
+print(trunk) #trunk dict안에 있는 모든 데이터들을 날림
